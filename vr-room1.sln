@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{75643853-AB27-D610-EC7F-EB423C4CC487}") = "vr-room1", "Assembly-CSharp-firstpass.csproj", "{4CC6AAA5-94EC-C080-5D61-D2BD8E2F274D}"
 EndProject
+Project("{75643853-AB27-D610-EC7F-EB423C4CC487}") = "vr-room1", "Assembly-CSharp.csproj", "{7A98F818-5BF5-4C95-A6CF-F93EEF8315BE}"
+EndProject
 Project("{75643853-AB27-D610-EC7F-EB423C4CC487}") = "vr-room1", "Assembly-CSharp-Editor.csproj", "{DAF3F04F-9D28-5566-B599-630617C008BB}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{4CC6AAA5-94EC-C080-5D61-D2BD8E2F274D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC6AAA5-94EC-C080-5D61-D2BD8E2F274D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC6AAA5-94EC-C080-5D61-D2BD8E2F274D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A98F818-5BF5-4C95-A6CF-F93EEF8315BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A98F818-5BF5-4C95-A6CF-F93EEF8315BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A98F818-5BF5-4C95-A6CF-F93EEF8315BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A98F818-5BF5-4C95-A6CF-F93EEF8315BE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DAF3F04F-9D28-5566-B599-630617C008BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DAF3F04F-9D28-5566-B599-630617C008BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAF3F04F-9D28-5566-B599-630617C008BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
