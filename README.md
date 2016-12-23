@@ -1,7 +1,7 @@
 Virtual Reality Suite
 
 
-Release Date:1st Jan,2017.
+Release Date:Technology Day
 
 
 Using Unity 5.4.0
