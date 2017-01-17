@@ -50,12 +50,12 @@ public class TextController : MonoBehaviour {
 		txt = GetComponent<Text> ();
 	int length = completeText.Length;
 
-			if (Input.GetKey (KeyCode.RightArrow)) {
+		if (Input.GetKey (KeyCode.D)) {
 			lowBound = upBound;
 			upBound = lowBound + 150;
 			txt.text = completeText.Substring (lowBound, upBound);
 			}
-			if (Input.GetKey (KeyCode.LeftArrow)) {
+		if (Input.GetKey (KeyCode.A)) {
 			upBound = lowBound;
 			lowBound = upBound - 150;
 		
